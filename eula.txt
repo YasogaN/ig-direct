@@ -1,0 +1,54 @@
+End-User License Agreement (EULA) for Third-Party Application - Instagram Direct (ig-direct)
+
+This End-User License Agreement ("EULA") is a legal agreement between you (hereinafter referred to as "User" or "You") and Yasoga Nanayakkarawasam, based in Sri Lanka (hereinafter referred to as "Provider", or "We") governing the use of the third-party application ("Application") for accessing and enhancing features related to Instagram Direct. By installing, accessing, or using the Application, you agree to be bound by the terms and conditions of this EULA.
+
+    Grant of License:
+        Subject to the terms and conditions of this EULA, Provider grants You a limited, non-exclusive, non-transferable, revocable license to use the Application solely for personal and non-commercial purposes.
+
+    Restrictions:
+        You may not sublicense, sell, lease, or distribute the Application.
+        You may not modify, reverse engineer, decompile, or disassemble the Application, except to the extent that such restriction is expressly prohibited by applicable law.
+        You may not use the Application in any manner that could harm, disable, overburden, or impair the services provided by Instagram or violate any Instagram policies.
+
+    Data Collection and Privacy:
+        The Application may collect certain information from or about You as outlined in our Privacy Policy. By using the Application, You consent to the collection and use of Your data.
+
+    Intellectual Property:
+        The Application, including but not limited to text, graphics, logos, and images, is the intellectual property of Provider and is protected by copyright and other intellectual property laws. You agree not to reproduce, distribute, or create derivative works based on the Application.
+        Trade
+
+    Updates and Support:
+        Provider may provide updates, enhancements, or modifications to the Application. You agree to install and use the latest version of the Application to ensure proper functionality.
+        Support for the Application is provided at the sole discretion of the Provider.
+
+    Disclaimer of Warranty:
+        The Application is provided "as is" without warranty of any kind. Provider disclaims all warranties, whether express, implied, or statutory, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+    Limitation of Liability:
+        In no event shall Provider be liable for any special, incidental, indirect, or consequential damages arising out of or in connection with the use or performance of the Application.
+
+    Termination:
+        This EULA is effective until terminated. Provider may terminate this EULA at any time without notice. Upon termination, You must cease all use of the Application.
+
+    Governing Law:
+        This EULA shall be governed by and construed in accordance with the laws of Sri Lanka, without regard to its conflict of law principles.
+
+    Contact Information:
+        For questions or concerns about this EULA, please contact contact@yasogan.dev.
+
+    Instagram Legal Disclaimer:
+        No Official Affiliation:
+            The Provider is not affiliated with Instagram or its parent company, Meta Platforms, Inc. Any use of the Instagram name or its associated trademarks is for descriptive purposes only.
+        User Responsibility:
+            Users of the Application are solely responsible for their interactions, engagements, and actions on the platform. The provider disclaims any liability for the consequences of such actions.
+        Third-Party Links:
+            Instagram may contain links to third-party websites or services. The Provider is not responsible for the content, accuracy, or practices of any third-party websites and does not endorse or make any representations about them.
+        
+
+The Provider reserves the right to modify, amend, or update this disclaimer at any time without prior notice. Users are encouraged to review the disclaimer regularly for any changes.
+
+By installing or using the Application, You acknowledge that You have read, understood, and agree to be bound by the terms and conditions of this EULA. If You do not agree to these terms, do not install or use the Application.
+
+Yasoga Nanayakkarawasam
+contact@yasogan.dev
+13.01.2024
