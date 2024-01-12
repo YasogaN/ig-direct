@@ -13,7 +13,7 @@
     "build": "electron build"
   },
   "author": "YasogaN",
-  "license": "MIT",
+  "license": "See LICENSE.md",
   "devDependencies": {
     "electron": "^28.1.3",
     "electron-builder": "^24.9.1"
