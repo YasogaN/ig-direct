@@ -1,7 +1,7 @@
 {
   "name": "ig-direct",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple electron app to send direct messages on Instagram",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -10,7 +10,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "electron .",
-    "build": "electron build"
+    "build": "electron-builder build"
   },
   "author": "YasogaN",
   "license": "cc-by-nc-nd-4.0",
