@@ -43,4 +43,4 @@ linux:
   category: Social
   synopsis: Instagram Direct Desktop App
 copyright: Copyright (c) 2024+ YasogaN
-artifactName: ${productName}-${version}-${os}-${arch}-${type}.${ext}
+artifactName: ${productName}-${version}-${os}-${arch}.${ext}
