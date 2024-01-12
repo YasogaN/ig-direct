@@ -1,0 +1,51 @@
+appId: dev.yasogan.ig-direct
+productName: Instagram Direct
+mac:
+  category: public.app-category.social-networking
+  icon: icon.icns
+  target:
+  - target: dmg
+win:
+  target:
+  - target: nsis
+    arch: 
+    - x64
+    - ia32
+    - arm64
+  - target: portable
+  - target: 
+nsis:
+  oneClick: false
+  selectPerMachineByDefault: true
+  allowToChangeInstallationDirectory: true
+  createDesktopShortcut: true
+  createStartMenuShortcut: true
+  installerIcon: icon.ico
+  uninstallerIcon: icon.ico
+  installerHeaderIcon: icon.ico
+  license: eula.txt
+linux:
+  target:
+  - target: AppImage
+    arch: 
+    - x64
+    - ia32
+    - arm64
+  - target: deb
+    arch: 
+    - x64
+    - ia32
+    - arm64
+  - target: rpm
+    arch: 
+    - x64
+    - ia32
+    - arm64
+  - target: tar.gz
+    arch: 
+    - x64
+    - ia32
+    - arm64
+  category: Social
+  synopsis: Instagram Direct Desktop App
+copyright: Copyright (c) 2024+ YasogaN
