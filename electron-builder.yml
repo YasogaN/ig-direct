@@ -13,10 +13,8 @@ win:
     - ia32
     - arm64
   - target: portable
-  - target: 
 nsis:
   oneClick: false
-  selectPerMachineByDefault: true
   allowToChangeInstallationDirectory: true
   createDesktopShortcut: true
   createStartMenuShortcut: true
@@ -29,22 +27,18 @@ linux:
   - target: AppImage
     arch: 
     - x64
-    - ia32
     - arm64
   - target: deb
     arch: 
     - x64
-    - ia32
     - arm64
   - target: rpm
     arch: 
     - x64
-    - ia32
     - arm64
   - target: tar.gz
     arch: 
     - x64
-    - ia32
     - arm64
   category: Social
   synopsis: Instagram Direct Desktop App

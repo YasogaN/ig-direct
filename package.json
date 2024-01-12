@@ -10,7 +10,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "electron .",
-    "build": "electron-builder build"
+    "build": "electron-builder build -wl"
   },
   "author": "YasogaN",
   "license": "cc-by-nc-nd-4.0",
